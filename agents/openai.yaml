@@ -1,0 +1,4 @@
+interface:
+  display_name: "neil-pet · 宠物专属形象"
+  short_description: "从多角度照片建立宠物角色，生成可独立复用的插画与演示专属技能"
+  default_prompt: "使用 $neil-pet，根据我的宠物照片和用途，为它建立角色并生成专属 Skill。"
