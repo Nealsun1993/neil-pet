@@ -1,0 +1,34 @@
+{
+  "slug": "momo-pet-studio",
+  "name": "Momo",
+  "species": "由用户确认的宠物种类",
+  "style_id": "P02",
+  "release": "draft",
+  "identity_facts": [
+    "填写照片中可见且需要保留的识别点"
+  ],
+  "design_decisions": [
+    "填写比例简化及明确授权的补全部位"
+  ],
+  "unknowns": [
+    "填写照片未覆盖的部位"
+  ],
+  "style_rules": [
+    "蜡笔颗粒、柔和边缘；其余按用户已选方向填写"
+  ],
+  "confirmations": {
+    "hero": "填写真实确认依据；示例并非已确认",
+    "expressions": "",
+    "views": ""
+  },
+  "assets": [
+    {
+      "id": "hero",
+      "role": "hero",
+      "source": "approved-hero.png",
+      "status": "confirmed",
+      "note": "替换为实际已确认角色图，示例不含图片"
+    }
+  ],
+  "application_tests": []
+}
